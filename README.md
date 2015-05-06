@@ -1,1 +1,1 @@
-# manifesto
+# The Worb Manifesto
